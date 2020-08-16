@@ -1,0 +1,76 @@
+<html>
+  <head>
+    <style>
+      .header{
+  text-align: center;
+
+}
+.next {
+text-align: center;
+  background-color: #4CAF50;
+  color: black;
+}
+
+   table { 
+                border-collapse: seperate; 
+  		border-spacing: 15px 60px;
+            }
+
+            th { 
+                Color:white; 
+            } 
+            th, td { 
+                width:150px; 
+                text-align:center; 
+	
+                padding:0 90px;
+            } 
+      body {
+  background-image: url('background.jpg');
+}
+      </style>
+  </head>
+  <body>
+   	 <div class="header">
+      <h1 style="background-color:powderblue;color:red;font-size:100px;"><i>SHOPPING CART</i></h1>
+      <img src="cart.jpg" alt="alternatetext"  width="100" height="100">
+    </div>
+    <div class="products">
+<table>
+<tr>
+
+<th><a href="buy.html"><img src="workplace.jpg" alt="workplace"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p1.jpg" alt="l1"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p2.jpg" alt="l1"   width="300" height="300"></a></th>
+</tr>
+<tr>
+<th><h2><a href="buy.html">LAPTOP10</a></h2></th>
+<th><h2><a href="buy.html">PHONE1</a></h2></th>
+<th><h2><a href="buy.html">PHONE2</a></h2></th>
+</tr>
+<tr>
+<th><a href="buy.html"><img src="p3.jpg" alt="l1"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p4.jpg" alt="l1"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p5.jpg" alt="l1"   width="300" height="300"></a></th>
+<tr>
+<th><h2><a href="buy.html">PHONE3</a></h2></th>
+<th><h2><a href="buy.html">PHONE4</a></h2></th>
+<th><h2><a href="buy.html">PHONE5</a></h2></th>
+</tr>
+<tr>
+<th><a href="buy.html"><img src="p6.jpg" alt="l1"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p7.jpg" alt="l1"   width="300" height="300"></a></th>
+<th><a href="buy.html"><img src="p8.jpg" alt="l1"   width="300" height="300"></a></th>
+</tr>
+<tr>
+<th><h2><a href="buy.html">PHONE6</a></h2></th>
+<th><h2><a href="buy.html">SMARTWATCH1</a></h2></th>
+<th><h2><a href="buy.html">SMARTWATCH2</a></h2></th>
+</tr>
+</table>
+</div>
+<h1><a href="shop.html" class="next"><p style="text-align:center">Previous</a></p></h1>
+
+    
+  </body>
+</html>
